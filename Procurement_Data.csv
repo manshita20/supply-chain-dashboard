@@ -1,0 +1,391 @@
+Supplier,Material,Date,PO_Quantity,Delivery_Status,Lead_Time_Days
+Supplier X,Sugar,2024-01-01,1105,On Time,12
+Supplier X,Sugar,2024-01-08,1742,On Time,19
+Supplier X,Sugar,2024-01-15,1216,On Time,18
+Supplier X,Sugar,2024-01-22,1050,Delayed,18
+Supplier X,Sugar,2024-01-29,1470,On Time,16
+Supplier X,Sugar,2024-02-05,2512,Delayed,16
+Supplier X,Sugar,2024-02-12,2613,On Time,16
+Supplier X,Sugar,2024-02-19,1796,On Time,12
+Supplier X,Sugar,2024-02-26,2609,On Time,12
+Supplier X,Sugar,2024-03-04,1317,On Time,12
+Supplier X,Sugar,2024-03-11,2294,On Time,10
+Supplier X,Sugar,2024-03-18,2590,Delayed,14
+Supplier X,Sugar,2024-03-25,1594,Delayed,19
+Supplier X,Sugar,2024-04-01,2472,Delayed,15
+Supplier X,Sugar,2024-04-08,2580,On Time,12
+Supplier X,Sugar,2024-04-15,1262,On Time,17
+Supplier X,Sugar,2024-04-22,2120,On Time,17
+Supplier X,Sugar,2024-04-29,1257,On Time,12
+Supplier X,Sugar,2024-05-06,1984,Delayed,7
+Supplier X,Sugar,2024-05-13,2605,On Time,15
+Supplier X,Sugar,2024-05-20,1371,Delayed,8
+Supplier X,Sugar,2024-05-27,1134,On Time,14
+Supplier X,Sugar,2024-06-03,1272,On Time,8
+Supplier X,Sugar,2024-06-10,2816,On Time,20
+Supplier X,Sugar,2024-06-17,1555,On Time,18
+Supplier X,Sugar,2024-06-24,2021,On Time,15
+Supplier X,Cocoa,2024-01-01,2648,On Time,16
+Supplier X,Cocoa,2024-01-08,1858,On Time,10
+Supplier X,Cocoa,2024-01-15,2527,On Time,17
+Supplier X,Cocoa,2024-01-22,1563,On Time,10
+Supplier X,Cocoa,2024-01-29,2547,On Time,17
+Supplier X,Cocoa,2024-02-05,2169,Delayed,10
+Supplier X,Cocoa,2024-02-12,2253,On Time,14
+Supplier X,Cocoa,2024-02-19,1665,On Time,11
+Supplier X,Cocoa,2024-02-26,1286,Delayed,11
+Supplier X,Cocoa,2024-03-04,1937,On Time,8
+Supplier X,Cocoa,2024-03-11,1509,Delayed,19
+Supplier X,Cocoa,2024-03-18,2423,On Time,11
+Supplier X,Cocoa,2024-03-25,2527,On Time,16
+Supplier X,Cocoa,2024-04-01,1436,On Time,12
+Supplier X,Cocoa,2024-04-08,1078,On Time,9
+Supplier X,Cocoa,2024-04-15,2898,On Time,19
+Supplier X,Cocoa,2024-04-22,1617,On Time,19
+Supplier X,Cocoa,2024-04-29,2546,On Time,14
+Supplier X,Cocoa,2024-05-06,2293,On Time,8
+Supplier X,Cocoa,2024-05-13,2259,On Time,11
+Supplier X,Cocoa,2024-05-20,2729,On Time,7
+Supplier X,Cocoa,2024-05-27,2877,Delayed,7
+Supplier X,Cocoa,2024-06-03,1160,On Time,16
+Supplier X,Cocoa,2024-06-10,1239,On Time,17
+Supplier X,Cocoa,2024-06-17,2361,Delayed,13
+Supplier X,Cocoa,2024-06-24,2736,On Time,14
+Supplier X,Wheat,2024-01-01,2402,On Time,15
+Supplier X,Wheat,2024-01-08,2292,On Time,11
+Supplier X,Wheat,2024-01-15,2227,On Time,9
+Supplier X,Wheat,2024-01-22,1387,On Time,12
+Supplier X,Wheat,2024-01-29,1784,Delayed,16
+Supplier X,Wheat,2024-02-05,1542,Delayed,11
+Supplier X,Wheat,2024-02-12,2919,On Time,9
+Supplier X,Wheat,2024-02-19,2578,On Time,10
+Supplier X,Wheat,2024-02-26,2852,Delayed,13
+Supplier X,Wheat,2024-03-04,1044,Delayed,16
+Supplier X,Wheat,2024-03-11,2243,On Time,8
+Supplier X,Wheat,2024-03-18,2357,On Time,12
+Supplier X,Wheat,2024-03-25,1447,On Time,16
+Supplier X,Wheat,2024-04-01,2917,On Time,14
+Supplier X,Wheat,2024-04-08,1862,Delayed,18
+Supplier X,Wheat,2024-04-15,2678,On Time,16
+Supplier X,Wheat,2024-04-22,1497,On Time,8
+Supplier X,Wheat,2024-04-29,2544,On Time,17
+Supplier X,Wheat,2024-05-06,2043,On Time,7
+Supplier X,Wheat,2024-05-13,2805,On Time,7
+Supplier X,Wheat,2024-05-20,2624,On Time,7
+Supplier X,Wheat,2024-05-27,1377,On Time,15
+Supplier X,Wheat,2024-06-03,1722,On Time,14
+Supplier X,Wheat,2024-06-10,2139,Delayed,10
+Supplier X,Wheat,2024-06-17,2597,On Time,8
+Supplier X,Wheat,2024-06-24,1425,On Time,7
+Supplier X,Oil,2024-01-01,2861,On Time,19
+Supplier X,Oil,2024-01-08,1261,On Time,19
+Supplier X,Oil,2024-01-15,2792,On Time,19
+Supplier X,Oil,2024-01-22,2726,Delayed,10
+Supplier X,Oil,2024-01-29,1108,Delayed,14
+Supplier X,Oil,2024-02-05,2539,Delayed,14
+Supplier X,Oil,2024-02-12,1232,On Time,20
+Supplier X,Oil,2024-02-19,2986,On Time,17
+Supplier X,Oil,2024-02-26,2699,Delayed,20
+Supplier X,Oil,2024-03-04,1825,On Time,10
+Supplier X,Oil,2024-03-11,2716,On Time,20
+Supplier X,Oil,2024-03-18,2197,Delayed,13
+Supplier X,Oil,2024-03-25,1575,On Time,20
+Supplier X,Oil,2024-04-01,1355,Delayed,20
+Supplier X,Oil,2024-04-08,1612,On Time,17
+Supplier X,Oil,2024-04-15,2247,Delayed,7
+Supplier X,Oil,2024-04-22,2733,On Time,10
+Supplier X,Oil,2024-04-29,1390,On Time,10
+Supplier X,Oil,2024-05-06,1720,Delayed,7
+Supplier X,Oil,2024-05-13,2926,On Time,7
+Supplier X,Oil,2024-05-20,2514,Delayed,18
+Supplier X,Oil,2024-05-27,2117,Delayed,11
+Supplier X,Oil,2024-06-03,2003,Delayed,12
+Supplier X,Oil,2024-06-10,1299,Delayed,19
+Supplier X,Oil,2024-06-17,1922,On Time,18
+Supplier X,Oil,2024-06-24,1153,On Time,7
+Supplier X,Packaging,2024-01-01,1171,On Time,11
+Supplier X,Packaging,2024-01-08,2481,On Time,17
+Supplier X,Packaging,2024-01-15,2164,On Time,17
+Supplier X,Packaging,2024-01-22,1272,On Time,17
+Supplier X,Packaging,2024-01-29,2301,On Time,18
+Supplier X,Packaging,2024-02-05,2345,On Time,9
+Supplier X,Packaging,2024-02-12,1364,On Time,11
+Supplier X,Packaging,2024-02-19,1373,On Time,13
+Supplier X,Packaging,2024-02-26,1367,On Time,9
+Supplier X,Packaging,2024-03-04,1468,Delayed,10
+Supplier X,Packaging,2024-03-11,2574,On Time,8
+Supplier X,Packaging,2024-03-18,2755,On Time,16
+Supplier X,Packaging,2024-03-25,1859,On Time,17
+Supplier X,Packaging,2024-04-01,1785,Delayed,14
+Supplier X,Packaging,2024-04-08,2601,On Time,18
+Supplier X,Packaging,2024-04-15,1831,On Time,18
+Supplier X,Packaging,2024-04-22,2738,On Time,11
+Supplier X,Packaging,2024-04-29,1848,On Time,14
+Supplier X,Packaging,2024-05-06,1112,On Time,17
+Supplier X,Packaging,2024-05-13,2368,On Time,11
+Supplier X,Packaging,2024-05-20,2600,On Time,17
+Supplier X,Packaging,2024-05-27,2216,Delayed,20
+Supplier X,Packaging,2024-06-03,1591,Delayed,18
+Supplier X,Packaging,2024-06-10,2859,On Time,16
+Supplier X,Packaging,2024-06-17,1229,On Time,10
+Supplier X,Packaging,2024-06-24,2286,On Time,19
+Supplier Y,Sugar,2024-01-01,1290,On Time,10
+Supplier Y,Sugar,2024-01-08,1605,On Time,15
+Supplier Y,Sugar,2024-01-15,2534,Delayed,18
+Supplier Y,Sugar,2024-01-22,1539,On Time,15
+Supplier Y,Sugar,2024-01-29,2048,On Time,16
+Supplier Y,Sugar,2024-02-05,1383,Delayed,9
+Supplier Y,Sugar,2024-02-12,2346,On Time,18
+Supplier Y,Sugar,2024-02-19,2750,Delayed,12
+Supplier Y,Sugar,2024-02-26,1057,On Time,13
+Supplier Y,Sugar,2024-03-04,1583,On Time,16
+Supplier Y,Sugar,2024-03-11,2834,On Time,18
+Supplier Y,Sugar,2024-03-18,1017,On Time,12
+Supplier Y,Sugar,2024-03-25,1455,On Time,15
+Supplier Y,Sugar,2024-04-01,1250,On Time,12
+Supplier Y,Sugar,2024-04-08,1455,On Time,12
+Supplier Y,Sugar,2024-04-15,2416,On Time,17
+Supplier Y,Sugar,2024-04-22,2062,On Time,17
+Supplier Y,Sugar,2024-04-29,1218,On Time,20
+Supplier Y,Sugar,2024-05-06,1186,Delayed,18
+Supplier Y,Sugar,2024-05-13,1876,On Time,14
+Supplier Y,Sugar,2024-05-20,1749,On Time,14
+Supplier Y,Sugar,2024-05-27,1574,On Time,17
+Supplier Y,Sugar,2024-06-03,2449,On Time,20
+Supplier Y,Sugar,2024-06-10,2378,Delayed,11
+Supplier Y,Sugar,2024-06-17,1492,On Time,18
+Supplier Y,Sugar,2024-06-24,2654,Delayed,18
+Supplier Y,Cocoa,2024-01-01,1432,On Time,20
+Supplier Y,Cocoa,2024-01-08,1700,Delayed,17
+Supplier Y,Cocoa,2024-01-15,1423,Delayed,16
+Supplier Y,Cocoa,2024-01-22,2701,On Time,13
+Supplier Y,Cocoa,2024-01-29,2674,On Time,20
+Supplier Y,Cocoa,2024-02-05,2567,Delayed,11
+Supplier Y,Cocoa,2024-02-12,1052,On Time,16
+Supplier Y,Cocoa,2024-02-19,1005,On Time,7
+Supplier Y,Cocoa,2024-02-26,2841,Delayed,15
+Supplier Y,Cocoa,2024-03-04,2832,On Time,10
+Supplier Y,Cocoa,2024-03-11,1335,Delayed,12
+Supplier Y,Cocoa,2024-03-18,1959,On Time,15
+Supplier Y,Cocoa,2024-03-25,1655,Delayed,12
+Supplier Y,Cocoa,2024-04-01,1218,On Time,17
+Supplier Y,Cocoa,2024-04-08,2583,Delayed,12
+Supplier Y,Cocoa,2024-04-15,2446,On Time,11
+Supplier Y,Cocoa,2024-04-22,1135,Delayed,13
+Supplier Y,Cocoa,2024-04-29,1336,On Time,7
+Supplier Y,Cocoa,2024-05-06,2483,On Time,14
+Supplier Y,Cocoa,2024-05-13,1986,On Time,11
+Supplier Y,Cocoa,2024-05-20,1365,On Time,17
+Supplier Y,Cocoa,2024-05-27,1745,Delayed,12
+Supplier Y,Cocoa,2024-06-03,2963,On Time,13
+Supplier Y,Cocoa,2024-06-10,1565,On Time,18
+Supplier Y,Cocoa,2024-06-17,2129,On Time,9
+Supplier Y,Cocoa,2024-06-24,1155,On Time,9
+Supplier Y,Wheat,2024-01-01,1585,On Time,16
+Supplier Y,Wheat,2024-01-08,1117,On Time,17
+Supplier Y,Wheat,2024-01-15,2413,On Time,15
+Supplier Y,Wheat,2024-01-22,2462,On Time,14
+Supplier Y,Wheat,2024-01-29,1272,On Time,15
+Supplier Y,Wheat,2024-02-05,1885,On Time,15
+Supplier Y,Wheat,2024-02-12,1928,On Time,9
+Supplier Y,Wheat,2024-02-19,1542,On Time,15
+Supplier Y,Wheat,2024-02-26,1500,Delayed,17
+Supplier Y,Wheat,2024-03-04,1336,On Time,17
+Supplier Y,Wheat,2024-03-11,2128,On Time,18
+Supplier Y,Wheat,2024-03-18,1162,On Time,12
+Supplier Y,Wheat,2024-03-25,2133,On Time,9
+Supplier Y,Wheat,2024-04-01,2754,On Time,12
+Supplier Y,Wheat,2024-04-08,1142,On Time,20
+Supplier Y,Wheat,2024-04-15,2883,Delayed,16
+Supplier Y,Wheat,2024-04-22,1436,Delayed,9
+Supplier Y,Wheat,2024-04-29,1250,On Time,7
+Supplier Y,Wheat,2024-05-06,1172,Delayed,16
+Supplier Y,Wheat,2024-05-13,2264,On Time,10
+Supplier Y,Wheat,2024-05-20,2049,On Time,16
+Supplier Y,Wheat,2024-05-27,1423,On Time,18
+Supplier Y,Wheat,2024-06-03,2035,On Time,9
+Supplier Y,Wheat,2024-06-10,1163,On Time,20
+Supplier Y,Wheat,2024-06-17,1249,On Time,7
+Supplier Y,Wheat,2024-06-24,2130,On Time,8
+Supplier Y,Oil,2024-01-01,2321,Delayed,9
+Supplier Y,Oil,2024-01-08,2142,Delayed,9
+Supplier Y,Oil,2024-01-15,1985,On Time,16
+Supplier Y,Oil,2024-01-22,1390,On Time,11
+Supplier Y,Oil,2024-01-29,1536,Delayed,9
+Supplier Y,Oil,2024-02-05,2296,On Time,10
+Supplier Y,Oil,2024-02-12,2878,On Time,19
+Supplier Y,Oil,2024-02-19,2142,Delayed,10
+Supplier Y,Oil,2024-02-26,1580,On Time,7
+Supplier Y,Oil,2024-03-04,2750,Delayed,20
+Supplier Y,Oil,2024-03-11,2023,On Time,13
+Supplier Y,Oil,2024-03-18,2022,Delayed,11
+Supplier Y,Oil,2024-03-25,1168,On Time,10
+Supplier Y,Oil,2024-04-01,1389,On Time,14
+Supplier Y,Oil,2024-04-08,2764,On Time,10
+Supplier Y,Oil,2024-04-15,1470,On Time,12
+Supplier Y,Oil,2024-04-22,1721,On Time,12
+Supplier Y,Oil,2024-04-29,2693,On Time,15
+Supplier Y,Oil,2024-05-06,1530,On Time,18
+Supplier Y,Oil,2024-05-13,1959,Delayed,16
+Supplier Y,Oil,2024-05-20,2541,On Time,16
+Supplier Y,Oil,2024-05-27,2635,On Time,12
+Supplier Y,Oil,2024-06-03,2677,On Time,9
+Supplier Y,Oil,2024-06-10,1949,On Time,13
+Supplier Y,Oil,2024-06-17,2302,On Time,14
+Supplier Y,Oil,2024-06-24,1015,On Time,7
+Supplier Y,Packaging,2024-01-01,1011,Delayed,7
+Supplier Y,Packaging,2024-01-08,1640,Delayed,13
+Supplier Y,Packaging,2024-01-15,1469,On Time,16
+Supplier Y,Packaging,2024-01-22,2530,Delayed,13
+Supplier Y,Packaging,2024-01-29,2663,On Time,11
+Supplier Y,Packaging,2024-02-05,2156,On Time,7
+Supplier Y,Packaging,2024-02-12,1861,On Time,13
+Supplier Y,Packaging,2024-02-19,1650,On Time,17
+Supplier Y,Packaging,2024-02-26,2651,Delayed,20
+Supplier Y,Packaging,2024-03-04,1628,On Time,14
+Supplier Y,Packaging,2024-03-11,1839,On Time,17
+Supplier Y,Packaging,2024-03-18,2197,On Time,16
+Supplier Y,Packaging,2024-03-25,2893,On Time,9
+Supplier Y,Packaging,2024-04-01,2292,On Time,13
+Supplier Y,Packaging,2024-04-08,2375,On Time,16
+Supplier Y,Packaging,2024-04-15,2014,On Time,14
+Supplier Y,Packaging,2024-04-22,2069,On Time,9
+Supplier Y,Packaging,2024-04-29,2111,On Time,13
+Supplier Y,Packaging,2024-05-06,1718,Delayed,18
+Supplier Y,Packaging,2024-05-13,2000,On Time,11
+Supplier Y,Packaging,2024-05-20,1353,Delayed,20
+Supplier Y,Packaging,2024-05-27,2987,On Time,20
+Supplier Y,Packaging,2024-06-03,1417,On Time,15
+Supplier Y,Packaging,2024-06-10,2636,On Time,19
+Supplier Y,Packaging,2024-06-17,1412,On Time,8
+Supplier Y,Packaging,2024-06-24,1794,On Time,14
+Supplier Z,Sugar,2024-01-01,1256,On Time,13
+Supplier Z,Sugar,2024-01-08,1742,On Time,12
+Supplier Z,Sugar,2024-01-15,2100,On Time,12
+Supplier Z,Sugar,2024-01-22,1107,On Time,15
+Supplier Z,Sugar,2024-01-29,1680,Delayed,15
+Supplier Z,Sugar,2024-02-05,1398,On Time,15
+Supplier Z,Sugar,2024-02-12,2934,Delayed,16
+Supplier Z,Sugar,2024-02-19,1704,Delayed,12
+Supplier Z,Sugar,2024-02-26,1928,On Time,13
+Supplier Z,Sugar,2024-03-04,2590,On Time,15
+Supplier Z,Sugar,2024-03-11,1082,On Time,17
+Supplier Z,Sugar,2024-03-18,1097,On Time,10
+Supplier Z,Sugar,2024-03-25,2887,Delayed,19
+Supplier Z,Sugar,2024-04-01,2318,On Time,20
+Supplier Z,Sugar,2024-04-08,1940,On Time,16
+Supplier Z,Sugar,2024-04-15,2471,Delayed,14
+Supplier Z,Sugar,2024-04-22,1746,On Time,8
+Supplier Z,Sugar,2024-04-29,1472,Delayed,9
+Supplier Z,Sugar,2024-05-06,1230,On Time,14
+Supplier Z,Sugar,2024-05-13,1974,On Time,19
+Supplier Z,Sugar,2024-05-20,2540,On Time,17
+Supplier Z,Sugar,2024-05-27,1485,On Time,8
+Supplier Z,Sugar,2024-06-03,2099,On Time,11
+Supplier Z,Sugar,2024-06-10,2237,On Time,9
+Supplier Z,Sugar,2024-06-17,1599,On Time,19
+Supplier Z,Sugar,2024-06-24,1868,On Time,9
+Supplier Z,Cocoa,2024-01-01,2590,Delayed,20
+Supplier Z,Cocoa,2024-01-08,1941,On Time,19
+Supplier Z,Cocoa,2024-01-15,1743,Delayed,12
+Supplier Z,Cocoa,2024-01-22,2557,On Time,14
+Supplier Z,Cocoa,2024-01-29,1509,On Time,10
+Supplier Z,Cocoa,2024-02-05,1449,On Time,12
+Supplier Z,Cocoa,2024-02-12,1610,On Time,14
+Supplier Z,Cocoa,2024-02-19,1416,On Time,7
+Supplier Z,Cocoa,2024-02-26,1565,Delayed,16
+Supplier Z,Cocoa,2024-03-04,1460,Delayed,7
+Supplier Z,Cocoa,2024-03-11,2863,On Time,16
+Supplier Z,Cocoa,2024-03-18,2815,On Time,19
+Supplier Z,Cocoa,2024-03-25,1973,On Time,9
+Supplier Z,Cocoa,2024-04-01,2598,Delayed,20
+Supplier Z,Cocoa,2024-04-08,2830,On Time,9
+Supplier Z,Cocoa,2024-04-15,2087,On Time,15
+Supplier Z,Cocoa,2024-04-22,2409,Delayed,18
+Supplier Z,Cocoa,2024-04-29,1194,On Time,14
+Supplier Z,Cocoa,2024-05-06,2392,On Time,13
+Supplier Z,Cocoa,2024-05-13,1897,On Time,7
+Supplier Z,Cocoa,2024-05-20,1101,On Time,16
+Supplier Z,Cocoa,2024-05-27,2939,On Time,12
+Supplier Z,Cocoa,2024-06-03,2095,On Time,15
+Supplier Z,Cocoa,2024-06-10,2713,On Time,11
+Supplier Z,Cocoa,2024-06-17,2112,Delayed,7
+Supplier Z,Cocoa,2024-06-24,2536,Delayed,14
+Supplier Z,Wheat,2024-01-01,1669,On Time,20
+Supplier Z,Wheat,2024-01-08,1638,On Time,14
+Supplier Z,Wheat,2024-01-15,2312,Delayed,10
+Supplier Z,Wheat,2024-01-22,2998,On Time,12
+Supplier Z,Wheat,2024-01-29,2938,On Time,9
+Supplier Z,Wheat,2024-02-05,2319,On Time,19
+Supplier Z,Wheat,2024-02-12,2418,On Time,15
+Supplier Z,Wheat,2024-02-19,2976,On Time,11
+Supplier Z,Wheat,2024-02-26,1628,On Time,20
+Supplier Z,Wheat,2024-03-04,1026,On Time,9
+Supplier Z,Wheat,2024-03-11,2583,On Time,7
+Supplier Z,Wheat,2024-03-18,1230,Delayed,17
+Supplier Z,Wheat,2024-03-25,2262,On Time,20
+Supplier Z,Wheat,2024-04-01,1951,Delayed,15
+Supplier Z,Wheat,2024-04-08,2250,On Time,11
+Supplier Z,Wheat,2024-04-15,2350,On Time,7
+Supplier Z,Wheat,2024-04-22,1508,On Time,20
+Supplier Z,Wheat,2024-04-29,1355,On Time,14
+Supplier Z,Wheat,2024-05-06,2977,On Time,9
+Supplier Z,Wheat,2024-05-13,2255,On Time,18
+Supplier Z,Wheat,2024-05-20,1762,On Time,17
+Supplier Z,Wheat,2024-05-27,2906,On Time,17
+Supplier Z,Wheat,2024-06-03,1079,On Time,19
+Supplier Z,Wheat,2024-06-10,1850,On Time,19
+Supplier Z,Wheat,2024-06-17,1374,Delayed,19
+Supplier Z,Wheat,2024-06-24,1223,On Time,18
+Supplier Z,Oil,2024-01-01,1415,On Time,15
+Supplier Z,Oil,2024-01-08,2457,Delayed,18
+Supplier Z,Oil,2024-01-15,1088,Delayed,10
+Supplier Z,Oil,2024-01-22,2158,Delayed,20
+Supplier Z,Oil,2024-01-29,1290,Delayed,8
+Supplier Z,Oil,2024-02-05,2524,On Time,13
+Supplier Z,Oil,2024-02-12,2746,On Time,15
+Supplier Z,Oil,2024-02-19,2349,On Time,14
+Supplier Z,Oil,2024-02-26,1656,On Time,12
+Supplier Z,Oil,2024-03-04,2903,On Time,7
+Supplier Z,Oil,2024-03-11,1149,On Time,19
+Supplier Z,Oil,2024-03-18,2239,Delayed,13
+Supplier Z,Oil,2024-03-25,2613,On Time,19
+Supplier Z,Oil,2024-04-01,1877,On Time,11
+Supplier Z,Oil,2024-04-08,2449,On Time,15
+Supplier Z,Oil,2024-04-15,2085,Delayed,11
+Supplier Z,Oil,2024-04-22,2631,On Time,17
+Supplier Z,Oil,2024-04-29,2227,On Time,19
+Supplier Z,Oil,2024-05-06,2829,On Time,7
+Supplier Z,Oil,2024-05-13,2023,Delayed,13
+Supplier Z,Oil,2024-05-20,2735,On Time,15
+Supplier Z,Oil,2024-05-27,2922,On Time,7
+Supplier Z,Oil,2024-06-03,2662,On Time,16
+Supplier Z,Oil,2024-06-10,1280,Delayed,20
+Supplier Z,Oil,2024-06-17,2855,On Time,16
+Supplier Z,Oil,2024-06-24,1476,On Time,19
+Supplier Z,Packaging,2024-01-01,1516,On Time,13
+Supplier Z,Packaging,2024-01-08,1443,On Time,19
+Supplier Z,Packaging,2024-01-15,2179,Delayed,10
+Supplier Z,Packaging,2024-01-22,1515,On Time,8
+Supplier Z,Packaging,2024-01-29,1976,On Time,18
+Supplier Z,Packaging,2024-02-05,2362,On Time,10
+Supplier Z,Packaging,2024-02-12,2617,On Time,12
+Supplier Z,Packaging,2024-02-19,2273,On Time,13
+Supplier Z,Packaging,2024-02-26,1521,On Time,19
+Supplier Z,Packaging,2024-03-04,2901,Delayed,8
+Supplier Z,Packaging,2024-03-11,1466,On Time,10
+Supplier Z,Packaging,2024-03-18,2329,On Time,18
+Supplier Z,Packaging,2024-03-25,2928,On Time,11
+Supplier Z,Packaging,2024-04-01,2299,On Time,16
+Supplier Z,Packaging,2024-04-08,1062,On Time,8
+Supplier Z,Packaging,2024-04-15,1923,On Time,12
+Supplier Z,Packaging,2024-04-22,1631,On Time,16
+Supplier Z,Packaging,2024-04-29,2033,On Time,11
+Supplier Z,Packaging,2024-05-06,1707,Delayed,20
+Supplier Z,Packaging,2024-05-13,2035,On Time,13
+Supplier Z,Packaging,2024-05-20,2099,On Time,11
+Supplier Z,Packaging,2024-05-27,2596,On Time,18
+Supplier Z,Packaging,2024-06-03,1218,On Time,18
+Supplier Z,Packaging,2024-06-10,2185,On Time,13
+Supplier Z,Packaging,2024-06-17,2354,On Time,18
+Supplier Z,Packaging,2024-06-24,1774,On Time,20
