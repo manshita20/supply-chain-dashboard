@@ -27,5 +27,3 @@ It includes procurement, inventory, and production analysis with executive-ready
 - Identify aging inventory issues by material
 - Compare supplier lead times for better sourcing
 
-## 📌 Note
-This project uses dummy data for demonstration and learning purposes.
